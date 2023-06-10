@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @mohamadchehab
+- 👋 Hi, I’m Moe!
 - 👀 I am studying Computer Systems Engineering at Arizona State University
-- 🌱 I am currently taking courses on Assembly Programming and Programming for Computer Engineering
-- 💞️ I’m looking to collaborate on mobile and web applications
+- 🌱 I've completed my Freshman and Sophomore semesters with a 3.6 Cumulative GPA
+- 🧑‍💼 I am the developer for Arizona State University's www.spaceheatmap.com Interactive Dashboard for Space Research.
+- I have written a Mobile Application in React Native for a famous car restoration garage in Lebanon and I am currently handling their social media and marketing.
+- 💞️ I’m looking to work on mobile and web applications
 - 📫 Reach me by email at mchehab@asu.edu
 
